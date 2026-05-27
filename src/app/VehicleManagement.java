@@ -109,7 +109,7 @@ public class VehicleManagement extends javax.swing.JFrame {
         });
         jPanel1.add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(916, 507, -1, -1));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\backgroundd.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\OneDrive\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\backgroundd.png")); // NOI18N
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1200, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

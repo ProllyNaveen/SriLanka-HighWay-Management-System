@@ -49,7 +49,7 @@ public class Home extends javax.swing.JFrame {
         jPanel1.setMaximumSize(new java.awt.Dimension(1200, 700));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\cashier.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\OneDrive\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\cashier.png")); // NOI18N
         jButton1.setContentAreaFilled(false);
         jButton1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -74,7 +74,7 @@ public class Home extends javax.swing.JFrame {
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 330, -1, -1));
 
         jButton2.setBackground(java.awt.SystemColor.control);
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\admin(2)(1).png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\OneDrive\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\admin(2)(1).png")); // NOI18N
         jButton2.setContentAreaFilled(false);
         jButton2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jButton2.setMaximumSize(new java.awt.Dimension(80, 80));
@@ -106,7 +106,7 @@ public class Home extends javax.swing.JFrame {
         jLabel7.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(980, 20, 100, 100));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\Home.jpg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\OneDrive\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\Home.jpg")); // NOI18N
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1200, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

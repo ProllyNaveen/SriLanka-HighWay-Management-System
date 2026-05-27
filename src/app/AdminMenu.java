@@ -97,8 +97,8 @@ public class AdminMenu extends javax.swing.JFrame {
         });
         jPanel1.add(jButton5, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 130, 299, 41));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\mainMenu.png")); // NOI18N
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1220, -1));
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/app/mainMenu.png"))); // NOI18N
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1220, 700));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

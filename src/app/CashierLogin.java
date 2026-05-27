@@ -10,11 +10,6 @@ package app;
  */
 import Classes.AuthCashier;
 import Classes.Session;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.util.Arrays;
 import javax.swing.JOptionPane;
 public class CashierLogin extends javax.swing.JFrame {
 
@@ -130,7 +125,7 @@ public class CashierLogin extends javax.swing.JFrame {
         jLabel4.setText("LOGIN TO YOUR ACCOUNT");
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 160, -1, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\loginlogin.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/app/backgroundd.png"))); // NOI18N
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         pack();

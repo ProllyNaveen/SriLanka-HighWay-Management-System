@@ -137,7 +137,7 @@ public class AdminLogin extends javax.swing.JFrame {
         jLabel4.setText("LOGIN TO YOUR ACCOUNT");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 170, 360, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\loginlogin.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\navee\\OneDrive\\Documents\\NetBeansProjects\\Highway Management System\\Resources\\loginlogin.png")); // NOI18N
         jLabel3.setText("jLabel3");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1200, -1));
 
